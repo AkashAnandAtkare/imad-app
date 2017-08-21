@@ -3,6 +3,6 @@ console.log('Loaded!');
 
 var image = document.getElementById('madi');
 madi.onclick= function(){
-    madi.style.marginleft = "100px";
+    madi.style.marginLeft = '100px';
      
 }
